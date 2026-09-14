@@ -1,21 +1,14 @@
-<!-- App Header / Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="600" alt="StepLock Banner" />
-</p>
+### 📱 App Screenshots
 
-<!-- App Screenshots Gallery -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220" alt="Home Screen" />
-  <img src="https://github.com/user-attachments/assets/e4d0240c-bb68-42f1-a6e2-939385cbe404" width="220" alt="App Lock Setup" />
-  <img src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" width="220" alt="Stats & History" />
-  <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220" alt="Settings" />
-</p>
+| Home | Apps | Analytics |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220"> | <img src="https://github.com/user-attachments/assets/e4d0240c-bb68-42f1-a6e2-939385cbe404" width="220"> | <img src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" width="220"> |
 
-<!-- Active Overlay Screen -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ae4a85ad-76d6-41ad-aad1-5e5a8c1b087f" width="260" alt="Lock Screen Overlay" />
-  <br>
-  <em>StepLock active enforcement overlay screen</em>
+| Habits | Settings | Lock Overlay |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220"> | <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220"> | <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="220"> |
+
+> **Enforcement Overlay**: Displays directly over targeted apps when your step balance runs out.
 </p>
 StepLock
 
