@@ -8,7 +8,6 @@
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220"> | <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220"> | <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="220"> |
 
-> **Enforcement Overlay**: Displays directly over targeted apps when your step balance runs out.
 </p>
 StepLock
 
