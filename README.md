@@ -1,10 +1,10 @@
 ### 📱 App Screenshots
 
-| Home | Apps | Analytics |
+| Settings | Analytics | Blocked Apps |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220" alt="Home Screen"> | <img src="https://github.com/user-attachments/assets/e4d0240c-bb68-42f1-a6e2-939385cbe404" width="220" alt="Apps & Usage Screen"> | <img src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" width="220" alt="Analytics Overview Screen"> |
 
-| Habits | Settings | Lock Overlay |
+| Home | Lock Overlay | Popup |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220" alt="Habits & Progress Screen"> | <img src="https://github.com/user-attachments/assets/6ed37778-0411-478f-a123-0c94bab30798" width="220" alt="App Settings Screen"> | <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="220" alt="Enforcement Lock Overlay"> |
 
