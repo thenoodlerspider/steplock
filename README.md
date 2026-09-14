@@ -1,9 +1,22 @@
-<img width="705" height="424" alt="6" src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" />
-<img width="720" height="1600" alt="5" src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" />
-<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/e4d0240c-bb68-42f1-a6e2-939385cbe404" />
-<img width="1080" height="2400" alt="3" src="https://github.com/user-attachments/assets/ae4a85ad-76d6-41ad-aad1-5e5a8c1b087f" />
-<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" />
-<img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" />
+<!-- App Header / Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="600" alt="StepLock Banner" />
+</p>
+
+<!-- App Screenshots Gallery -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220" alt="Home Screen" />
+  <img src="https://github.com/user-attachments/assets/e4d0240c-bb68-42f1-a6e2-939385cbe404" width="220" alt="App Lock Setup" />
+  <img src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" width="220" alt="Stats & History" />
+  <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220" alt="Settings" />
+</p>
+
+<!-- Active Overlay Screen -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae4a85ad-76d6-41ad-aad1-5e5a8c1b087f" width="260" alt="Lock Screen Overlay" />
+  <br>
+  <em>StepLock active enforcement overlay screen</em>
+</p>
 StepLock
 
 StepLock is a simple tool designed to help you build a healthier relationship with your phone. Instead of relying on sheer willpower to stop scrolling, StepLock connects your screen time directly to your physical activity. If you want to use your favorite apps, you have to earn the time by walking.
