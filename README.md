@@ -8,6 +8,11 @@
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220" alt="Habits & Progress Screen"> | <img src="https://github.com/user-attachments/assets/6ed37778-0411-478f-a123-0c94bab30798" width="220" alt="App Settings Screen"> | <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="220" alt="Enforcement Lock Overlay"> |
 
+| Earning Rates |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/1e53586c-8c78-49f2-b59c-2a1f951d7e07" width="220" alt="Widget Screen"> |
+
+
 
 StepLock
 
